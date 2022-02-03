@@ -1,6 +1,26 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Test Note",
+        "text": "This is a test note to check if the application works with the code in index.js file",
+        "id": "040d"
+    },
+    {
+        "title": "Second Test Note",
+        "text": "This is a second test to check if the app renders the selected note in the text area",
+        "id": "36d8"
+    },
+    {
+        "title": "POST test note",
+        "text": "This is a third test to check if the POST route to save and add a note is working correctly",
+        "id": "d5af"
+    },
+    {
+        "title": "Final test note",
+        "text": "This is a final test to make sure everything is working",
+        "id": "0965"
     }
 ]
