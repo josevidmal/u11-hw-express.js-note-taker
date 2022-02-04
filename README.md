@@ -27,9 +27,9 @@ localhost:3001/api/notes (GET)
 
 ![Note Taker 3](./public/assets/images/note-taker-3.png)
 
-The link to the deployed application is this one:
+The link to the deployed application through Heroku is this one:
 
-
+https://jv-notetaker-app.herokuapp.com/
 
 ## Technologies Used
 
